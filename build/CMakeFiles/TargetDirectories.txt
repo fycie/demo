@@ -1,3 +1,0 @@
-/home/riki/gms/GMS-Feature-Matcher/build/CMakeFiles/edit_cache.dir
-/home/riki/gms/GMS-Feature-Matcher/build/CMakeFiles/rebuild_cache.dir
-/home/riki/gms/GMS-Feature-Matcher/build/CMakeFiles/gms_match_demo.dir
