@@ -22,7 +22,7 @@ cmake ..
 make 
 
 
-./build/gms_match_demo path_to_img1 path_to_img2
+./gms_match_demo path_to_img1 path_to_img2
 
 
 
