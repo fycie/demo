@@ -1,6 +1,8 @@
 # demo
 
 
+
+
 # usage
 Requirement:
 1.OpenCV 3.0 or later (for ORB features, necessary)
@@ -11,11 +13,11 @@ Requirement:
 
 C++ Example:
 
-Go to "build" folder
+mkdir build 
 
+cd build
 
 cmake ..
-
 
 make 
 
