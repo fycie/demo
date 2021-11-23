@@ -20,7 +20,7 @@ cmake ..
 make 
 
 
-./gms_match_demo ../data/01.jpg ../data/02.jpg
+./build/gms_match_demo path_to_img1 path_to_img2
 
 
 
